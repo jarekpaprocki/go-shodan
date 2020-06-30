@@ -1,0 +1,4 @@
+{
+  "andromouse": "Checks whether the device is running the remote mouse AndroMouse service.",
+  "zookeeper": "Grab statistical information from a Zookeeper node"
+}
